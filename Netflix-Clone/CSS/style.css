@@ -1,0 +1,23 @@
+@import'/CSS/variables.css';
+
+.bg-div{
+background-image: url("/images/netflix-backg.jpg");
+}
+#head-contents{
+    margin: 12rem 8rem;
+    padding-bottom: 12rem;
+  
+}
+
+#form-email{
+    /*max-width: 35vw;*/
+   
+}
+
+email-box{
+    flex:4;
+}
+
+#start-btn{
+    flex:3;
+}

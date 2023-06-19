@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{ 
+    font-family: 'Montserrat','poppins',sans-serif;
+
+}
+.priCol{
+     color:red !important;
+}
+.secCol{
+     color: white !important;
+}
+
+.terCol{
+    color: black !important;
+}
+
+.bg-pri{
+    background-color: red !important;
+}
+
+.bg-sec{
+    background-color: white !important;
+}
+
+.bg-ter{
+    background-color:black !important;
+}
+
+
